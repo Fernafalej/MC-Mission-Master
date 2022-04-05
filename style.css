@@ -9,3 +9,13 @@ body{
 	user-select: none;
 	cursor: default;
 }
+#chooseCampaign{
+	display:none;
+	background-color: red;
+	width: 100%;
+	height:50px;
+}
+.campaignHeader{
+	width: 100%;
+	background-color:red;
+}
